@@ -149,8 +149,7 @@ The affordability analysis explores how rental costs can represent different fin
 ![Historical Rent Trends](https://raw.githubusercontent.com/Marwa-abdelkaoui/Casablanca-Rental-Affordability-Analysis/main/screenshots/historical-trends.png)
 
 ## Interactive Power BI Dashboard
-
-[Open the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGUwOGQ2MWUtZWM4ZC00ZmYzLTkzZmMtN2I4Y2UyYmU1ZmRjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
+[**Open the Casablanca Rental Affordability Dashboard in Power BI**](https://app.powerbi.com/view?r=eyJrIjoiOTA2MDI5YmEtNDZjNy00MjM3LTkyNWEtNGQ5Yzk0ZDg5MDAxIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
 
 ## Author
 
