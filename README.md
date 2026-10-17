@@ -137,6 +137,21 @@ The affordability analysis explores how rental costs can represent different fin
 - Data Visualization
 - Interactive Dashboard Design
 
+## Dashboard Preview
+
+### Rental Market
+![Rental Market](https://raw.githubusercontent.com/Marwa-abdelkaoui/Casablanca-Rental-Affordability-Analysis/main/screenshots/rental-market.png)
+
+### Rental Affordability
+![Rental Affordability](https://raw.githubusercontent.com/Marwa-abdelkaoui/Casablanca-Rental-Affordability-Analysis/main/screenshots/affordability.png)
+
+### Historical Rent Trends — 2001–2022
+![Historical Rent Trends](https://raw.githubusercontent.com/Marwa-abdelkaoui/Casablanca-Rental-Affordability-Analysis/main/screenshots/historical-trends.png)
+
+## Interactive Power BI Dashboard
+
+[Open the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGUwOGQ2MWUtZWM4ZC00ZmYzLTkzZmMtN2I4Y2UyYmU1ZmRjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
+
 ## Author
 
 **Marwa Abdelkaoui**
